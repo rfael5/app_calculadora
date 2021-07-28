@@ -1,2 +1,2 @@
 # app_calculadora
-Primeiro projeto do curso de desenvolvimento web do módulo de javascript
+O objetivo desse projeto é praticar o uso de Javascript criando um app que serve como calculadora
